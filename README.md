@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kadirgvn92
-- 👀 I’m interested in java.
-- 🌱 I’m currently learning java
+- 👀 I want to be a Backend Developer so I'm interested in Java, Python, SQL, NoSQL, Spring.
+- 🌱 I’m currently learning Java, SQL, NoSQL, Spring..
 - 💞️ I’m looking to collaborate on java students.
 - 📫 How to reach me kdrgvndeveloper@gmail.com
 
