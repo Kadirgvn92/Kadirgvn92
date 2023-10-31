@@ -1,3 +1,7 @@
+
+<img src="https://developer.microsoft.com/en-us/windows/images/dev-center-banner.png">
+<hr>
+
 - 👋 Hi, I’m Kadir..
 - 👀 I want to be a Backend Developer so I'm interested in C#, Java, SQL, NoSQL, ASP.NET.
 - 🌱 I’m currently learning .Net Technology and C#, Basic Java, SQL, NoSQL, ASP.NET Core..
