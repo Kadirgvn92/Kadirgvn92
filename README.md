@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kadir..
-- 👀 I want to be a Backend Developer so I'm interested in C#, Java, Python, SQL, NoSQL, Spring.
-- 🌱 I’m currently learning Java, SQL, NoSQL, Spring..
-- 💞️ I’m looking to collaborate on java students.
+- 👀 I want to be a Backend Developer so I'm interested in C#, Java, SQL, NoSQL, ASP.NET.
+- 🌱 I’m currently learning .Net Technology and C#, Basic Java, SQL, NoSQL, ASP.NET Core..
+- 💞️ I’m looking to collaborate on .NET students.
 - 📫 How to reach me kdrgvndeveloper@gmail.com
 
 <!---
