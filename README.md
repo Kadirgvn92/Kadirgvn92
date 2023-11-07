@@ -1,5 +1,4 @@
-
-<img src="https://developer.microsoft.com/en-us/windows/images/dev-center-banner.png">
+<img src="https://i.ibb.co/rQqPPKw/1-1.png" alt="1-1" border="0" align-item="center" width="500px">
 <hr>
 
 - 👋 Hi, I’m Kadir..
