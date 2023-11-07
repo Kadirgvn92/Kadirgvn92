@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/rQqPPKw/1-1.png" alt="1-1" border="0" align-item="center" width="500px">
+<p align="center"><img src="https://i.ibb.co/rQqPPKw/1-1.png" alt="1-1" border="0" align="center" style="display: block; margin: 0 auto;" width="500px"></p>
+
 <hr>
 
 - 👋 Hi, I’m Kadir..
