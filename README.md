@@ -2,6 +2,8 @@
 
 <hr>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 - 👋 Hi, I’m Kadir..
 - 👀 I want to be a Backend Developer so I'm interested in C#, Java, SQL, NoSQL, ASP.NET.
 - 🌱 I’m currently learning .Net Technology and C#, Basic Java, SQL, NoSQL, ASP.NET Core..
