@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 👋 Hi, I’m Kadir..<br>- 👀 I want to be a Backend Developer so I'm interested in C#, Java, SQL, NoSQL, ASP.NET.<br>- 🌱 I’m currently learning .Net Technology and C#, Basic Java, SQL, NoSQL, ASP.NET Core..<br>- 💞️ I’m looking to collaborate on .NET students.<br>- 📫 How to reach me kdrgvndeveloper@gmail.com<br>
+- 👋 Hi, I’m Kadir..<br>
+- 👀 I want to be a .NET Developer so I'm interested in C#, SQL, NoSQL, ASP.NET.<br>
+- 🌱 I’m currently learning .Net Technology and C#, SQL, NoSQL, ASP.NET Core..<br>
+- 👀 Whenever I get chance to spend time without .NET, I found myself at Swift and iOS Technologies.
+- 📫 I am greatly interested in iOS mobile applications.</br>
+- 💞️ I’m looking to collaborate on .NET students.<br>
+- 📫 How to reach me kdrgvndeveloper@gmail.com<br>
 
 
 ## 🌐 Socials:
