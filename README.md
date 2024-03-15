@@ -7,7 +7,11 @@
 - 💞️ I’m looking to collaborate on .NET students.<br>
 - 📫 How to reach me kdrgvndeveloper@gmail.com<br>
 ## My .NET Products
-<p align="center"> <img src="ss1.jpeg" height="500px" width="250px"/>  <img src="ss2.png"height="500px" width="250px" /> <img src="ss3.jpeg" height="500px" width="250px"/></p>
+<li>
+  <ul><img src="Ekran görüntüsü 2024-03-14 154744.png"height="400px" width="800px" /></ul>
+  <ul><img src="Ekran görüntüsü 2024-03-15 124830.png" height="400px" width="800px"/></p></ul>
+  <ul><img src="Ekran görüntüsü 2024-03-15 125013.png" height="400px" width="800px"/></p></ul>
+</li>
 
 ## My iOS App
 
