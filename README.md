@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on .NET students.<br>
 - 📫 How to reach me kdrgvndeveloper@gmail.com<br>
 ## My .NET Products
-<li>
+<li class="no-marker">
   
   <ul><a href="https://github.com/Kadirgvn92/KidKinder"> <img src="blogy.png"height="400px" width="800px" /> </a> </ul>
   <ul><a href="https://github.com/Kadirgvn92/KidKinder"> <img src="Ekran görüntüsü 2024-03-14 154744.png"height="400px" width="800px" /> </a> </ul>
