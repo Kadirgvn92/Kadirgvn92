@@ -8,6 +8,8 @@
 - 📫 How to reach me kdrgvndeveloper@gmail.com<br>
 ## My .NET Products
 <li>
+  
+  <ul><a href="https://github.com/Kadirgvn92/KidKinder"> <img src="blogy.png"height="400px" width="800px" /> </a> </ul>
   <ul><a href="https://github.com/Kadirgvn92/KidKinder"> <img src="Ekran görüntüsü 2024-03-14 154744.png"height="400px" width="800px" /> </a> </ul>
   <ul><a href="https://github.com/Kadirgvn92/TraversalYoutube"><img src="Ekran görüntüsü 2024-03-15 125509.png" height="400px" width="800px"/> </a></ul>
   <ul><a href="https://github.com/Kadirgvn92/UdemySignalRProject"><img src="Ekran görüntüsü 2024-03-15 124830.png" height="400px" width="800px"/> </a></ul>
