@@ -18,7 +18,7 @@
 
 ## My iOS App
 
-<p align="center"> <img src="ss1.jpeg" height="500px" width="250px"/>  <img src="ss2.png"height="500px" width="250px" /> <img src="ss3.jpeg" height="500px" width="250px"/></p>
+<p align="center"><a href="https://github.com/Kadirgvn92/BMI-Calculator"> <img src="ss1.jpeg" height="500px" width="250px"/></a>   <img src="ss2.png"height="500px" width="250px" /><a href="https://github.com/Kadirgvn92/Quizzler-iOS15"> <img src="ss3.jpeg" height="500px" width="250px"/></a></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/junior_backend_developer/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-g%C3%BCven-53237b286/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kadirgvn92) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KdrGvnDeveloper) 
