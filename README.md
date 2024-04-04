@@ -1,11 +1,12 @@
 # 💫 About Me:
 - 👋 Hi, I’m Kadir..<br>
-- 👀 I want to be a .NET Developer so I'm interested in C#, SQL, NoSQL, ASP.NET.<br>
+- 👀 I am Full Stack .NET Developer so I'm interested in C#, SQL, NoSQL, ASP.NET. and JavaScript <br>
 - 🌱 I’m currently learning .Net Technology and C#, SQL, NoSQL, ASP.NET Core..<br>
-- 👀 Whenever I get chance to spend time without .NET, I found myself at Swift and iOS Technologies.
-- 📫 I am greatly interested in iOS mobile applications.</br>
+- 👀 Whenever I get chance to spend time without .NET, I found myself at iOS Tech and Flutter.<br>
+- 📫 I am greatly interested in mobile applications.<br>
 - 💞️ I’m looking to collaborate on .NET students.<br>
 - 📫 How to reach me kdrgvndeveloper@gmail.com<br>
+
 ## My .NET Products
 <a href="https://github.com/Kadirgvn92/MoskPharmacy"> <img src="mosk3.png" height="350px" width="800px" /> </a>
 <a href="https://github.com/Kadirgvn92/IdentityMessage"> <img src="7.png" height="220px" width="400px" /> </a>
