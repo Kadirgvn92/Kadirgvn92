@@ -10,7 +10,7 @@
 ## My .NET Products
 <a href="https://github.com/Kadirgvn92/MoskPharmacy"> <img src="mosk3.png" height="350px" width="800px" /> </a>
 <a href="https://github.com/Kadirgvn92/IdentityMessage"> <img src="7.png" height="220px" width="400px" /> </a>
-<a href="https://github.com/Kadirgvn92/KidKinder"> <img src="blogy.png" height="220px" width="400px" /> </a>
+<a href="https://github.com/Kadirgvn92/Blogy"> <img src="blogy.png" height="220px" width="400px" /> </a>
 <a href="https://github.com/Kadirgvn92/KidKinder"> <img src="Ekran görüntüsü 2024-03-14 154744.png" height="220px" width="400px" /> </a> 
 <a href="https://github.com/Kadirgvn92/TraversalYoutube"><img src="Ekran görüntüsü 2024-03-15 125509.png" height="220px" width="400px"/> </a>
 <a href="https://github.com/Kadirgvn92/UdemySignalRProject"><img src="Ekran görüntüsü 2024-03-15 124830.png" height="220px" width="400px"/> </a>
